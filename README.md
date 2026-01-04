@@ -1,14 +1,14 @@
-Project Title
+Project Title:-
 
 Diwali Sales Analysis
 
-Problem Statement
+Problem Statement:-
 
 Businesses often struggle to understand customer purchasing behavior during festive seasons. Without proper analysis, it becomes difficult to identify top-performing products, customer segments, and sales trends that can drive better decisions.
 
 This project analyzes Diwali sales data to uncover meaningful insights such as customer demographics, buying patterns, and product performance.
 
-Tools and Techniques
+Tools and Techniques:-
 
 Python for data analysis
 
